@@ -1,4 +1,5 @@
-# SelfLearning-Projects
+# SelfLearning-Projects-Python
+
 Coding projects!!
 
-These arre my first couple of projects while trying to learn python!!
+These are my first couple of projects while trying to learn python!!
